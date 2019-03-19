@@ -1,0 +1,14 @@
+body{
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-image:url("./img/hero.jpeg");
+    
+    min-height:100vh;
+    z-index: 0;
+}
+
+
+#loginCard{
+    margin-top:200px;
+}
